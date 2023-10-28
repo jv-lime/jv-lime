@@ -1,4 +1,4 @@
-## 🍋 Olá, eu sou João Vitor, mas pode me chamar de Limão
+## 🍋 Olá, eu sou o João Vitor, mas pode me chamar de Limão
 
 - 🤓 Sou mais um nerd apaixonado por tecnologia e programação 
 - 📚 Atualmente estudo Informática no CEFET-MG Campus Contagem
