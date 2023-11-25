@@ -5,5 +5,5 @@
 - 🐧 Sou um distrohopper de carteirinha e sempre estou testando novos sistemas
 - 🔒 Costumo manter muitos dos meus projetos em repositórios privados
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SenhorLime&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenhorLime&layout=compact&theme=github_dark&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=SenhorLime&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenhorLime&layout=compact&theme=github_dark&hide_border=true&hide=portugol)
