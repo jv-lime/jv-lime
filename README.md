@@ -10,8 +10,8 @@
 
 <div align="center">
   
-  ![Stats](https://github-readme-stats.vercel.app/api?username=SenhorLime&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&hide=issues)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenhorLime&layout=compact&theme=github_dark&hide_border=true&hide=portugol)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=jv-lime&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&hide=issues)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jv-lime&layout=compact&theme=github_dark&hide_border=true&hide=portugol)
   
 </div>
 
